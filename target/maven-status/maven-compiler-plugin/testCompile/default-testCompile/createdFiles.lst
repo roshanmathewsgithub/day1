@@ -1,0 +1,5 @@
+com\guru\testCases\BaseClass.class
+com\guru\Utilities\Reporting.class
+com\guru\pageObjects\LoginPage.class
+com\guru\testCases\Tc_LoginTest_001.class
+com\guru\Utilities\Readconfig.class
